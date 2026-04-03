@@ -1,9 +1,8 @@
 # End-To-End-Object-Detection-Project
 
 # How to run :
-
-'''bash 
 # create an virtual environment 
+'''bash 
 conda create -n signlang python -y
 '''
 
